@@ -1,0 +1,252 @@
+['-n', '5', '-l', 'trappedClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 324.4
+Win count: 4
+Time result: 0.07046031951904297
+['-n', '5', '-l', 'trappedClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 324.4
+Win count: 4
+Time result: 0.06473016738891602
+['-n', '5', '-l', 'trappedClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 324.4
+Win count: 4
+Time result: 0.05892014503479004
+['-n', '5', '-l', 'contestClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1100.4
+Win count: 3
+Time result: 10.642008304595947
+['-n', '5', '-l', 'contestClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1100.4
+Win count: 3
+Time result: 6.823403358459473
+['-n', '5', '-l', 'contestClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1141.0
+Win count: 2
+Time result: 8.67518663406372
+['-n', '5', '-l', 'powerClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1397.2
+Win count: 3
+Time result: 33.10409593582153
+['-n', '5', '-l', 'powerClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1397.2
+Win count: 3
+Time result: 13.32586932182312
+['-n', '5', '-l', 'powerClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 2255.0
+Win count: 4
+Time result: 46.941412687301636
+['-n', '5', '-l', 'capsuleClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: -157.2
+Win count: 0
+Time result: 2.4205527305603027
+['-n', '5', '-l', 'capsuleClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: -157.2
+Win count: 0
+Time result: 1.6984355449676514
+['-n', '5', '-l', 'capsuleClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: -150.8
+Win count: 0
+Time result: 2.77111554145813
+['-n', '5', '-l', 'mediumClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1281.0
+Win count: 4
+Time result: 8.231917142868042
+['-n', '5', '-l', 'mediumClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1281.0
+Win count: 4
+Time result: 5.427367925643921
+['-n', '5', '-l', 'mediumClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1043.8
+Win count: 3
+Time result: 6.6487860679626465
+['-n', '5', '-l', 'smallClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 705.2
+Win count: 4
+Time result: 6.369999885559082
+['-n', '5', '-l', 'smallClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 705.2
+Win count: 4
+Time result: 3.7975103855133057
+['-n', '5', '-l', 'smallClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1040.0
+Win count: 5
+Time result: 7.257042169570923
+['-n', '5', '-l', 'minimaxClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: -291.2
+Win count: 1
+Time result: 0.09098076820373535
+['-n', '5', '-l', 'minimaxClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: -291.2
+Win count: 1
+Time result: 0.05745291709899902
+['-n', '5', '-l', 'minimaxClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: -291.2
+Win count: 1
+Time result: 0.0950927734375
+['-n', '5', '-l', 'testClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 557.6
+Win count: 5
+Time result: 0.42519688606262207
+['-n', '5', '-l', 'testClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 557.6
+Win count: 5
+Time result: 0.2555270195007324
+['-n', '5', '-l', 'testClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 355.6
+Win count: 4
+Time result: 0.480971097946167
+['-n', '5', '-l', 'trickyClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1222.6
+Win count: 2
+Time result: 141.30374836921692
+['-n', '5', '-l', 'trickyClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1222.6
+Win count: 2
+Time result: 47.07093572616577
+['-n', '5', '-l', 'trickyClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 983.2
+Win count: 0
+Time result: 838.0083796977997
+['-n', '5', '-l', 'originalClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1464.8
+Win count: 4
+Time result: 174.38941717147827
+['-n', '5', '-l', 'originalClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1464.8
+Win count: 4
+Time result: 101.25999617576599
+['-n', '5', '-l', 'originalClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 961.0
+Win count: 2
+Time result: 212.95959877967834
+['-n', '5', '-l', 'openClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1235.6
+Win count: 5
+Time result: 10.930176258087158
+['-n', '5', '-l', 'openClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1235.6
+Win count: 5
+Time result: 4.792760610580444
+['-n', '5', '-l', 'openClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=betterEvaluationFunction', '-q']
+Average Score: 1235.6
+Win count: 5
+Time result: 10.974449634552002
+['-n', '5', '-l', 'trappedClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 325.2
+Win count: 4
+Time result: 0.053457021713256836
+['-n', '5', '-l', 'trappedClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 325.2
+Win count: 4
+Time result: 0.05164337158203125
+['-n', '5', '-l', 'trappedClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 325.2
+Win count: 4
+Time result: 0.05696988105773926
+['-n', '5', '-l', 'contestClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -133.4
+Win count: 0
+Time result: 9.917837858200073
+['-n', '5', '-l', 'contestClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -133.4
+Win count: 0
+Time result: 5.448788166046143
+['-n', '5', '-l', 'contestClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 126.0
+Win count: 0
+Time result: 16.229525804519653
+['-n', '5', '-l', 'powerClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 228.4
+Win count: 0
+Time result: 38.027251958847046
+['-n', '5', '-l', 'powerClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 228.4
+Win count: 0
+Time result: 13.25762939453125
+['-n', '5', '-l', 'powerClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 22.4
+Win count: 0
+Time result: 23.949103116989136
+['-n', '5', '-l', 'capsuleClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -468.6
+Win count: 0
+Time result: 1.6621901988983154
+['-n', '5', '-l', 'capsuleClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -468.6
+Win count: 0
+Time result: 1.069866418838501
+['-n', '5', '-l', 'capsuleClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -471.8
+Win count: 0
+Time result: 1.6668620109558105
+['-n', '5', '-l', 'mediumClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 85.0
+Win count: 2
+Time result: 28.353275775909424
+['-n', '5', '-l', 'mediumClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 85.0
+Win count: 2
+Time result: 17.98435688018799
+['-n', '5', '-l', 'mediumClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -531.6
+Win count: 0
+Time result: 31.875010013580322
+['-n', '5', '-l', 'smallClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -272.8
+Win count: 0
+Time result: 4.205796480178833
+['-n', '5', '-l', 'smallClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -272.8
+Win count: 0
+Time result: 2.564479351043701
+['-n', '5', '-l', 'smallClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 8.2
+Win count: 1
+Time result: 6.98591685295105
+['-n', '5', '-l', 'minimaxClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -291.2
+Win count: 1
+Time result: 0.08934569358825684
+['-n', '5', '-l', 'minimaxClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -291.2
+Win count: 1
+Time result: 0.05917477607727051
+['-n', '5', '-l', 'minimaxClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 111.6
+Win count: 3
+Time result: 0.08984994888305664
+['-n', '5', '-l', 'testClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+['-n', '5', '-l', 'testClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+['-n', '5', '-l', 'testClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 221.6
+Win count: 4
+Time result: 2.106372833251953
+['-n', '5', '-l', 'trickyClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 686.4
+Win count: 0
+Time result: 1452.3299612998962
+['-n', '5', '-l', 'trickyClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 686.4
+Win count: 0
+Time result: 132.08828783035278
+['-n', '5', '-l', 'trickyClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 361.6
+Win count: 0
+Time result: 5481.62676358223
+['-n', '5', '-l', 'originalClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -96.4
+Win count: 0
+Time result: 157.81173014640808
+['-n', '5', '-l', 'originalClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -96.4
+Win count: 0
+Time result: 96.0590431690216
+['-n', '5', '-l', 'originalClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: 1.6
+Win count: 0
+Time result: 122.7344901561737
+['-n', '5', '-l', 'openClassic', '-p', 'MinimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+['-n', '5', '-l', 'openClassic', '-p', 'AlphaBetaAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+['-n', '5', '-l', 'openClassic', '-p', 'ExpectimaxAgent', '-a', 'depth=2,evalFn=scoreEvaluationFunction', '-q']
+Average Score: -1061.2
+Win count: 0
+Time result: 38.4767804145813
